@@ -68,7 +68,7 @@ $$\text{ANLS}(T, \hat{T}) = 1 - \frac{\text{Levenshtein}(T, \hat{T})}{\max(|T|, 
 
 ```bash
 # Clone the repository
-git clone git@github.com:your-org/vision-language-gui-grounding.git
+git clone https://github.com/Keshavj-13/vision-language-gui-grounding.git
 cd vision-language-gui-grounding
 
 # Run evaluation across checkpoints
