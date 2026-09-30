@@ -1,0 +1,7 @@
+{
+  "tag": "baseline",
+  "n": 1000,
+  "ANLS": 0.8203,
+  "grounding_IoU": 0.0,
+  "json_valid_rate": 0.997
+}

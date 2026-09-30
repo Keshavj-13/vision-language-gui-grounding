@@ -1,0 +1,7 @@
+{
+  "tag": "sft",
+  "n": 1000,
+  "ANLS": 0.9299,
+  "grounding_IoU": 0.4355,
+  "json_valid_rate": 1.0
+}
